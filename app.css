@@ -1,0 +1,44 @@
+
+body {
+    background-color: #60a9ff;
+}
+
+.top_section {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.image_container {
+    display: flex;
+    border: 10px solid transparent;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+h1 {
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+h4 {
+    padding-left: 30px;
+}
+
+.about_section {
+    display: inline-block;
+    align-content: center;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+
+
+
+
